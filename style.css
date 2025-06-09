@@ -55,3 +55,37 @@ body {
     margin: 1rem;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
+.tajmain {
+    background: linear-gradient(135deg, #e02128, #e44e21 , #e2aa0e);
+    color: #fff;
+    text-align: center;
+    padding: 3rem 1rem;
+}
+
+.tajmain h1 {
+    font-size: 2.5rem;
+    margin-bottom: 0.3rem;
+}
+
+.tajmain h2 {
+    font-size: 1.2rem;
+    font-weight: 300;
+    color: #ccc;
+}
+
+.tajcontent {
+    max-width: 700px;
+    margin: 2rem auto;
+    padding: 2rem;
+    background: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.1);
+    line-height: 1.8;
+    font-size: 1.1rem;
+}
+
+.tajcontent img {
+    width: 100%;
+    border-radius: 8px;
+    margin-bottom: 1.5rem;
+}
